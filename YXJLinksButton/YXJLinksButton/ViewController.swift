@@ -15,11 +15,11 @@ class ViewController: UIViewController {
         super.viewDidLoad()
 
         let btn = YXJLinksButton(frame: CGRect(x: 100, y: 100, width: 100, height: 100))
-        btn.setTitle("用户协议", forState: UIControlState.Normal)
-        btn.setTitleColor(UIColor.blackColor(), forState: UIControlState.Normal)
+        btn.setTitle("用户协议", for: UIControlState())
+        btn.setTitleColor(UIColor.black, for: UIControlState())
         
         // 设置下划线颜色
-        btn.setLinksColor(UIColor.redColor())
+        btn.setLinksColor(UIColor.red)
 
         self.view.addSubview(btn)
     }
