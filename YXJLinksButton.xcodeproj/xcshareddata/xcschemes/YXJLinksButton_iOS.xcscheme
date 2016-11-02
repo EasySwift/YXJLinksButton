@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0800"
+   LastUpgradeVersion = "0810"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DE44BBB51D9D704600AE68C7"
-               BuildableName = "YXJLinksButton ios.framework"
-               BlueprintName = "YXJLinksButton ios"
-               ReferencedContainer = "container:YXJLinksButtonTest.xcodeproj">
+               BlueprintIdentifier = "DE3BAF371DCA49E000D52596"
+               BuildableName = "YXJLinksButton_iOS.framework"
+               BlueprintName = "YXJLinksButton_iOS"
+               ReferencedContainer = "container:YXJLinksButton.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,10 +45,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DE44BBB51D9D704600AE68C7"
-            BuildableName = "YXJLinksButton ios.framework"
-            BlueprintName = "YXJLinksButton ios"
-            ReferencedContainer = "container:YXJLinksButtonTest.xcodeproj">
+            BlueprintIdentifier = "DE3BAF371DCA49E000D52596"
+            BuildableName = "YXJLinksButton_iOS.framework"
+            BlueprintName = "YXJLinksButton_iOS"
+            ReferencedContainer = "container:YXJLinksButton.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -63,10 +63,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DE44BBB51D9D704600AE68C7"
-            BuildableName = "YXJLinksButton ios.framework"
-            BlueprintName = "YXJLinksButton ios"
-            ReferencedContainer = "container:YXJLinksButtonTest.xcodeproj">
+            BlueprintIdentifier = "DE3BAF371DCA49E000D52596"
+            BuildableName = "YXJLinksButton_iOS.framework"
+            BlueprintName = "YXJLinksButton_iOS"
+            ReferencedContainer = "container:YXJLinksButton.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
